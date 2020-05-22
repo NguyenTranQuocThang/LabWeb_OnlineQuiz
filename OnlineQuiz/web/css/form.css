@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 28, 2020, 9:49:22 PM
+    Author     : thang
+*/
+.block {
+    color: #587381;
+}
+.block h3{
+    color: #1e1381;
+    margin: 0px;
+    padding: 0px;
+}
+
+.block table td{
+    margin: 0px;
+    padding: 0px;
+}
+.block a{
+    text-decoration: none;
+    color: #587381;
+    
+}
+.registerdiv {
+    width: 150px;
+}
+.input{
+    background-color: #faffbd;
+    size: 25px;
+}
+.option{
+    width: 100px;
+}
+.texareaBig{
+    width: 450px;
+    height: 100px;
+}
+.texareaSmall{
+    width: 450px;
+    height: 50px;
+}
+.block{
+    padding-top: 30px;
+}
+.checkbox{
+    float: left;
+}
+.fortopBlock{
+    display: block;
+}
+.titleBlue{
+    color: #282bff;
+    font-weight: bold;
+}
+.widthOfQuestion{
+    width:  350px;
+}
+.heighOfQuestion{
+    height: 50px;
+}
+.notify{
+    color: red;
+}
+.onestatement{
+    float: left;
+}
+.paddleft{
+    padding-left: 20px;
+}
+
+
+
+
